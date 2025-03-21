@@ -8,8 +8,8 @@ Antes de instalar "João IA 🧠", certifique-se de possuir as seguintes ferrame
 ## 🚀 Como Instalar
 ### 1. Clone o repositório (caso esteja utilizando Git):
 ``` bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <DIRETORIO_CLONADO>
+    git clone https://github.com/joaooliveira10/JoaoOliveirIA.git
+    cd JoaoOliveirIA
 ```
 **Alternativa:** Copie manualmente o arquivo `JoaoIA.py` e o arquivo `requirements.txt` para um diretório desejado.
 ### 2. Crie um ambiente virtual dedicado:
